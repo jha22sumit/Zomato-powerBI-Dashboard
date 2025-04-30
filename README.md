@@ -72,7 +72,7 @@ Preview Images (Optional):
 
 
  # City Analysis
-![image alt](
+![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/c41f83d4df2a3ba71a8d069ac3c1528bb9ec544c/City%20Analysis.png)
 
 
 
