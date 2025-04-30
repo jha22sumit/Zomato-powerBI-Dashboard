@@ -4,11 +4,11 @@ This Power BI dashboard analyzes Zomato’s performance across cities, users, an
 # 📌 Project Summary
 Tool: Microsoft Power BI Desktop
 
-Scope: Visual analytics for Zomato food delivery data
+**Scope**: Visual analytics for Zomato food delivery data
 
-Data Sources: Simulated user, order, and city-level restaurant data
+**Data Sources**: Simulated user, order, and city-level restaurant data
 
-Views Included:
+**Views Included**:
 
 Dashboard Overview
 
@@ -17,7 +17,7 @@ City-Level Analysis
 User Performance Summary
 
 # 📊 Dashboard Views & Features
-# 🏠 Overview Page
+ 🏠 **Overview Page**
 A high-level summary showing:
 
 Total Sales: ₹989M
@@ -46,6 +46,8 @@ Filter by Year and City
 Compare Previous vs Current Year Sales
 
 Visualized Food Preferences (Veg, Non-Veg, Others)
+
+
 # 👤 User Performance
 Insights on user demographics and behavior:
 
@@ -95,12 +97,12 @@ Use slicers to filter by city, year, and food type
 
 # Overview
 ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/cc32deeedbfa6de195ab74b003e09352152de5e6/Overview.png)
-	# User Performance
+# User Performance
  ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/1cf722201e46ac1a39f028d7b56e79614f4c6819/User%20Analysis.png)
 
 
 
- City Analysis
+ # City Analysis
 ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/0dc1bdee6fb54323994ae074cc5b0d884ea162c4/City%20Analysis.png)
 
 # 📬 Contact
