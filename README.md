@@ -21,16 +21,8 @@ A high-level summary showing:
 * **Top Cities** **by Sales**
 * Sales performance by **Food Type**: Veg, Non-Veg, Others
 * **Time-Series Analysis** of yearly sales trends (2017–2020)
-
- # 🏙️ City Analysis 
- 
-Dive deep into **city-wise** performance:
-* **Restaurant Count** by City
-* **Order Count**, **Sales Value**, and **User Activity** by City
-* Filter by **Year** and **City**
-* Compare **Previous** vs **Current Year Sales**
-* Visualized **Food Preferences** (Veg, Non-Veg, Others)
-
+# 📷 Previews
+![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/cc32deeedbfa6de195ab74b003e09352152de5e6/Overview.png)
 
 # 👤 User Performance
 
@@ -42,6 +34,18 @@ Insights on user demographics and behavior:
     * Employee (53%)
     * Housewife, Student, Self-Employed
 * Year-based filters for comparative analysis
+ ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/1cf722201e46ac1a39f028d7b56e79614f4c6819/User%20Analysis.png)
+
+  
+  # 🏙️ City Analysis 
+ 
+Dive deep into **city-wise** performance:
+* **Restaurant Count** by City
+* **Order Count**, **Sales Value**, and **User Activity** by City
+* Filter by **Year** and **City**
+* Compare **Previous** vs **Current Year Sales**
+* Visualized **Food Preferences** (Veg, Non-Veg, Others)
+![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/c41f83d4df2a3ba71a8d069ac3c1528bb9ec544c/City%20Analysis.png)  
 
 # 🛠 Tech Stack
 * Power BI Desktop
@@ -67,12 +71,11 @@ Preview Images (Optional):
 # Overview
 ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/cc32deeedbfa6de195ab74b003e09352152de5e6/Overview.png)
 # User Performance
- ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/1cf722201e46ac1a39f028d7b56e79614f4c6819/User%20Analysis.png)
-
+ 
 
 
  # City Analysis
-![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/c41f83d4df2a3ba71a8d069ac3c1528bb9ec544c/City%20Analysis.png)
+
 
 
 
