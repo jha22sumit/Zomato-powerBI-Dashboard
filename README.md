@@ -22,8 +22,9 @@ A high-level summary showing:
 * Sales performance by **Food Type**: Veg, Non-Veg, Others
 * **Time-Series Analysis** of yearly sales trends (2017–2020)
 
- # 🏙️ City Analysis
-* Dive deep into **city-wise** performance:
+ # 🏙️ City Analysis 
+ 
+Dive deep into **city-wise** performance:
 * **Restaurant Count** by City
 * **Order Count**, **Sales Value**, and **User Activity** by City
 * Filter by **Year** and **City**
@@ -32,8 +33,8 @@ A high-level summary showing:
 
 
 # 👤 User Performance
-Insights on user demographics and behavior:
 
+Insights on user demographics and behavior:
 * **Active Users**, **Net Users**, and **Total Users**
 * **User Gain**/**Loss by Gender**
 * **Age Distribution** Histogram
