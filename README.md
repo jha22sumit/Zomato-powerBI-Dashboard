@@ -21,7 +21,7 @@ A high-level summary showing:
 * **Top Cities** **by Sales**
 * Sales performance by **Food Type**: Veg, Non-Veg, Others
 * **Time-Series Analysis** of yearly sales trends (2017–2020)
-# 📷 Previews
+# 📷 Preview
 ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/cc32deeedbfa6de195ab74b003e09352152de5e6/Overview.png)
 
 # 👤 User Performance
@@ -34,6 +34,8 @@ Insights on user demographics and behavior:
     * Employee (53%)
     * Housewife, Student, Self-Employed
 * Year-based filters for comparative analysis
+  
+# 📷 Preview
  ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/1cf722201e46ac1a39f028d7b56e79614f4c6819/User%20Analysis.png)
 
   
@@ -45,6 +47,7 @@ Dive deep into **city-wise** performance:
 * Filter by **Year** and **City**
 * Compare **Previous** vs **Current Year Sales**
 * Visualized **Food Preferences** (Veg, Non-Veg, Others)
+# 📷 Preview
 ![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/c41f83d4df2a3ba71a8d069ac3c1528bb9ec544c/City%20Analysis.png)  
 
 # 🛠 Tech Stack
@@ -66,15 +69,6 @@ Preview Images (Optional):
 3. Open the file in Power BI to explore and interact with visuals.
 4. Use slicers to filter by city, year, and food type.
 
-# 📷 Dashboard Previews
-
-# Overview
-![image alt](https://github.com/jha22sumit/Zomato-powerBI-Dashboard/blob/cc32deeedbfa6de195ab74b003e09352152de5e6/Overview.png)
-# User Performance
- 
-
-
- # City Analysis
 
 
 
