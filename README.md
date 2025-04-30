@@ -53,12 +53,12 @@ Zomato Dashboard Project.pbix: Complete Power BI file containing all visuals and
 Preview Images (Optional):
 *   Overview.png
 *   City Analysis.png
-* User Analysis.png
+*   User Analysis.png
 # 🚀 How to Run
-1.Download and install Power BI Desktop.
-2.Clone this repo or download the .pbix file.
-3.Open the file in Power BI to explore and interact with visuals.
-4.Use slicers to filter by city, year, and food type.
+1. Download and install Power BI Desktop.
+2. Clone this repo or download the .pbix file.
+3. Open the file in Power BI to explore and interact with visuals.
+4. Use slicers to filter by city, year, and food type.
 
 # 📷 Dashboard Previews
 
